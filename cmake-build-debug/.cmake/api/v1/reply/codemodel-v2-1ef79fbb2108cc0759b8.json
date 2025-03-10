@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SJF_Scheduler",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SJF_Scheduler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SJF_Scheduler-Debug-6c2fc2e6310f8f341777.json",
+					"name" : "SJF_Scheduler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "scheduler_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scheduler_lib-Debug-28417449720134f60e88.json",
+					"name" : "scheduler_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/irinavorobieva/CLionProjects/SJF_Scheduler/cmake-build-debug",
+		"source" : "/Users/irinavorobieva/CLionProjects/SJF_Scheduler"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
