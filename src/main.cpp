@@ -1,3 +1,14 @@
+/*
+* COP 4610 Operating Systems
+ * Irina Vorobieva
+ * Z23678087
+ *
+ * This project file simulates a SJF Scheduler
+ * Data is pulled from the process_data.txt file
+ * and is used to test the functionality of the program
+ *
+ */
+
 #include "sjf/sjf_scheduler.h"
 #include <iostream>
 #include <stdexcept>

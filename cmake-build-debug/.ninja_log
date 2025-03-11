@@ -1,8 +1,9 @@
 # ninja log v6
 1	762	1741591582857799457	CMakeFiles/SJF_Scheduler.dir/src/sjf/sjf_scheduler.cpp.o	3d8fe48184f5508e
-0	80	1741591582857439040	CMakeFiles/SJF_Scheduler.dir/main.cpp.o	45e8cbc498f9cd12
-2	98	1741592393960580216	build.ninja	75e6216cb5981c89
 1	170	1741592393976505019	CMakeFiles/SJF_Scheduler.dir/main.cpp.o	45e8cbc498f9cd12
-1	866	1741592393976161230	CMakeFiles/scheduler_lib.dir/src/sjf/sjf_scheduler.cpp.o	12bdd67841dcab64
+2	98	1741656661300213973	build.ninja	75e6216cb5981c89
 866	924	1741592394841542255	libscheduler_lib.a	742506083fb120c6
+1	866	1741592393976161230	CMakeFiles/scheduler_lib.dir/src/sjf/sjf_scheduler.cpp.o	12bdd67841dcab64
 924	1001	1741592394899601478	SJF_Scheduler	549386fc71431561
+16	242	1741660792039348968	CMakeFiles/SJF_Scheduler.dir/main.cpp.o	45e8cbc498f9cd12
+242	329	1741660792264352370	SJF_Scheduler	549386fc71431561
